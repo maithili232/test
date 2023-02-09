@@ -16,7 +16,7 @@ multiproject_projects = {
     },
 }
 
-current_project  = get_project(multiproject_projects)
+current_project  = multiproject_projects
 
 # Set all values directly
 # -----------------------
